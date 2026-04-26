@@ -84,9 +84,3 @@ No missing or duplicate values
 Engineered features for better pattern detection
 Fully numeric dataset ready for modeling
 
-If you want, I can also:
-
-add plots/visualizations (with markdown images)
-or make this more concise (1-page version for submission)
-
-We use cookies
