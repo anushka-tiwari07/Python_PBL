@@ -10,8 +10,8 @@ Transaction details (amt, trans_date_trans_time)
 User information (city, state, job, dob)
 Location data (lat, long, merch_lat, merch_long)
 Target variable: is_fraud
-⚙️ Data Preprocessing Steps
 
+Data Preprocessing Steps
 The dataset was cleaned and prepared using the following steps:
 
 Data Understanding
@@ -40,21 +40,21 @@ Geographic features (lat, long) left unchanged
 Feature Scaling
 Applied StandardScaler
 Normalized all feature values for better model performance
- Machine Learning Models
 
+Machine Learning Models
 The following models are implemented:
+1.Logistic Regression
+2.K-Nearest Neighbors (KNN)
+3.Support Vector Machine (SVM)
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
 Workflow
 Data Collection → Data Cleaning → Feature Engineering → Encoding → Outlier Handling → Scaling → Model Training → Evaluation
 Evaluation Metrics
 
 Models are evaluated using:
 
-Accuracy
-Precision
-Recall
-F1-score
-Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.F1-score
+5.Confusion Matrix
